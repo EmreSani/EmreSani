@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://meryemkolbasar.io)
 
-[![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EmreSani&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 <h1 align="center">Hi 👋, I'm Emre Sani</h1> 
@@ -27,7 +27,7 @@
 ---
 
 
- 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emre_sunny) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emre_sunny) 
  
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -41,13 +41,13 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=meryemkolbasar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=meryemkolbasar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemkolbasar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=EmreSani&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmreSani&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreSani&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=meryemkolbasar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=EmreSani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
