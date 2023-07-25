@@ -16,7 +16,7 @@
  ---
  
  
-- 🌱 I'm currently learning **PostgreSQL** 
+- 🌱 I'm currently learning **SpringBoot** 
 - 📫 How to reach me **emresani1998@gmail.com** 
 - ⚡ Languages I can speak: **English, Swedish, Turkish**
 
