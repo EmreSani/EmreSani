@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emre Sani</h1> 
-<h3 align="center">A passionate Full Stack Java Developer from Sweden.</h3> 
+<h3 align="center">A passionate Full Stack Java Developer</h3> 
 
 
 <img align="right" alt="Coding" width="390" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
