@@ -1,22 +1,16 @@
-
-
 [![](https://visitcount.itsvg.in/api?id=EmreSani&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 <h1 align="center">Hi 👋, I'm Emre Sani</h1> 
 <h3 align="center">Full Stack Java Developer</h3> 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
-  ---
  
 - 💬 Ask me about java, springboot, react
 - 📫 How to reach me **emresani1998@gmail.com** 
 - ⚡ Languages I can speak: **English, Swedish, Turkish**
 
 <h3 align="left">🌐 Socials:</h3>
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emresani/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emre_sunny)
