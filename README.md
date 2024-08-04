@@ -4,23 +4,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Emre Sani</h1> 
-<h3 align="center">A passionate Full Stack Java Developer</h3> 
+<h3 align="center">Full Stack Java Developer</h3> 
 
-
-
- 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
  <h3 align="left">💫 About Me:</h3>
  
  ---
  
- 
-- 🌱 I'm currently learning **SpringBoot** 
+- 🌱 I'm currently learning **JavaScript** 
 - 📫 How to reach me **emresani1998@gmail.com** 
 - ⚡ Languages I can speak: **English, Swedish, Turkish**
-
-
 
 <h3 align="left">🌐 Socials:</h3>
 
