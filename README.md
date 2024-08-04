@@ -10,7 +10,7 @@
  
   ---
  
-- 🌱 I'm currently learning **JavaScript** 
+- 💬 Ask me about java, springboot, react
 - 📫 How to reach me **emresani1998@gmail.com** 
 - ⚡ Languages I can speak: **English, Swedish, Turkish**
 
